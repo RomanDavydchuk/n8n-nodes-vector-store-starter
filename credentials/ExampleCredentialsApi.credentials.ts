@@ -7,6 +7,7 @@ import {
 
 export class ExampleCredentialsApi implements ICredentialType {
 	name = 'exampleCredentialsApi';
+
 	displayName = 'Example Credentials API';
 
 	documentationUrl = 'https://your-docs-url';
