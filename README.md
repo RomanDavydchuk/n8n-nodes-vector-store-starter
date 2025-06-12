@@ -29,7 +29,7 @@ These are the basic steps for working with the starter. For detailed guidance on
    ```
 3. Run `npm i` to install dependencies.
 4. Open the project in your editor.
-5. Browse the code in `/nodes` and `/credentials`. _Update the `_.node.ts`file, files in `/core`and`/descriptions`folders. You don't need to update the code in other folders, unless you have a very specific reason to do so. Look for`TODO` comments to see what needs to be implememnted.\*
+5. Browse the code in `/nodes` and `/credentials`. **Update the `*.node.ts` file, files in `/core` and `/descriptions` folders. You don't need to update the code in other folders, unless you have a specific reason to do so. Look for `TODO` comments to see what needs to be implememnted.**
 6. Update the `package.json` to match your details.
 7. Run `npm run lint` to check for errors or `npm run lintfix` to automatically fix errors when possible.
 8. Test your node locally. Refer to [Run your node locally](https://docs.n8n.io/integrations/creating-nodes/test/run-node-locally/) for guidance.
